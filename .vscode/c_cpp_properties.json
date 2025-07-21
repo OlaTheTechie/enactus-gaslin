@@ -1,0 +1,19 @@
+{
+  "configurations": [
+    {
+      "name": "Arduino",
+      "includePath": [
+        "${workspaceFolder}/**",
+        "/usr/share/arduino/hardware/arduino/avr/cores/arduino",
+        "/usr/share/arduino/libraries/**",
+        "/usr/lib/avr/include"
+      ],
+      "defines": ["ARDUINO=10805"],
+      "compilerPath": "/usr/bin/avr-g++",
+      "cStandard": "c11",
+      "cppStandard": "c++17",
+      "intelliSenseMode": "gcc-x64"
+    }
+  ],
+  "version": 4
+}

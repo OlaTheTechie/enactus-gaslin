@@ -1,0 +1,6 @@
+WIFI_SSID = "electron__gun"
+WIFI_PASSWORD = "38372"
+CALLMEBOT_API_KEY = "www.callmebot.com"
+PHONE_NUMBERS = ["+2347041397674"]
+GAS_THRESHOLD = 300
+ALERT_COOLDOWN = 300  # seconds
